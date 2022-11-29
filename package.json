@@ -21,6 +21,9 @@
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
   },
+  "publishConfig": {
+    "@1artifactware:registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "@types/grecaptcha": "^3.0.4",
     "tslib": "^2.4.1"
