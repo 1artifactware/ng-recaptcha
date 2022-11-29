@@ -16,7 +16,7 @@
     "preversion": "yarn version:lib && yarn lib:build",
     "version": "yarn changelog && git add CHANGELOG.md",
     "lint": "eslint projects --ext .js,.ts,.html",
-    "prepare": "husky install"
+    "prepare": ""
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
