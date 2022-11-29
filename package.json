@@ -1,6 +1,6 @@
 {
   "name": "ng-recaptcha-base",
-  "private": true,
+  "private": false,
   "version": "11.0.0",
   "scripts": {
     "demo:file-gen": "ts-node --project ./tsconfig.node.json ./projects/demo/bin/file-gen.ts",
