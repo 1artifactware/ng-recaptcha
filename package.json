@@ -22,7 +22,7 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "publishConfig": {
-    "@1artifactware:registry": "https://npm.pkg.github.com"
+    "@adamwiw:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@types/grecaptcha": "^3.0.4",
