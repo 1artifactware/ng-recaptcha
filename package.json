@@ -1,5 +1,5 @@
 {
-  "name": "ng-recaptcha",
+  "name": "@adamwiw/ng-recaptcha",
   "private": false,
   "version": "11.0.0",
   "scripts": {
